@@ -1,4 +1,4 @@
-# CYD Temp Viewer,
+# CYD MachineStats,
 ### Note - This project is Open Source. 
 ----
 Welcome To the CYD TempViewer!
